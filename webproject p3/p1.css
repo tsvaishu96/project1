@@ -1,0 +1,137 @@
+BODY{
+    opacity: 0.7;
+}
+#one{
+    background-image: url("../webproject p3/i1.jpg");
+    min-height: 600px;
+    min-width: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+
+    
+}
+#two{
+   padding-top: 30px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+
+margin-left: 350px;
+margin-top:250px;
+    display:inline-block;
+    background-color: black;
+    width: 450px;
+    height:70px;
+ 
+    position:sticky;
+}
+#four{
+    background-color: white;
+    text-align: center;
+  
+}
+#five{
+    line-height:30px;
+    text-align: center;
+    font-size: 20px;
+}
+#six{
+    text-align: center;
+    background-image:url("../webproject p3/i3.jpg");
+    /* height: 500px;
+    width: 500px; */
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    min-width: 200px;
+    margin-top: 0px;
+      
+}
+#seven{
+    text-align: center;
+    padding-top: 300PX;
+}
+#eight{line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #282e34;
+    color: azure;
+    border-top:none;
+    margin-bottom: 0px;
+    
+
+}
+#nine{
+    padding-top: 40px;
+    text-align:center;
+    margin-top: 0px;
+ 
+}
+#ten{
+    background-image: url("../webproject p3/i3.jpg");
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 520px;
+}
+
+#eleven{
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+    margin-top: 0px;
+}
+#twelve{
+    background-color: #182747;
+height: 200px;
+line-height: 30px;
+color: aliceblue;
+font-size: medium;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#thirteen{
+    text-align: center;
+    margin-top: 0px;
+}
+#fourteen{
+    background-image: url("../webproject p3/i3.jpg");
+    min-height: 600px;
+    min-width: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+}
+#fifteen{
+    /* text-align: center;
+    padding-top: 300px;
+    font-size: 50px;
+    display:inline-block;
+    background-color: black;
+    width: 250px;
+    height:70px;
+    margin-left: 350px;
+margin-top:250px; */
+padding-top: 30px;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color: white;
+
+margin-left: 350px;
+margin-top:250px;
+display:inline-block;
+background-color: black;
+width: 450px;
+height:70px;
+
+position:sticky;
+}
+  
+
